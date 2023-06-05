@@ -1,5 +1,9 @@
 # Appturismo
 
+Código que se corresponde a la masterclass de Angular. No el HTML tal cual, pero si los módulos, los componentes y el routing.
+
+---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
 ## Development server
